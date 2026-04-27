@@ -9,6 +9,8 @@ Hola!👋 Soy Karen Olaya<picture><img src = "https://github.com/7oSkaaa/7oSkaaa
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi.***
+
+
 Soy estudiante de Análisis y Desarrollo de Software (ADSO) con un fuerte enfoque en la arquitectura de datos y el desarrollo backend. Me especializo en la creación de soluciones estructuradas utilizando MySQL, donde disfruto transformando requerimientos complejos en modelos de datos optimizados y normalizados.
 ​Mi enfoque combina la precisión técnica con un alto estándar estético, aplicando principios de diseño moderno en cada interfaz. Además, me apasiona explorar la integración de sistemas mecánicos y robóticos en proyectos de software innovadores.
 
@@ -37,11 +39,14 @@ Soy estudiante de Análisis y Desarrollo de Software (ADSO) con un fuerte enfoqu
 
 
 🏢 Experiencia Laboral
+
 Sena (2026 - Actualidad)
 Analisis de desarrollo y sofware , estuudio en el sena
 
 🎓 Educación
+
 Tecnico en sistemas (2023 - 2024)
+
 📞 Contacto
 Teléfono:3123250303
 Email: mechis2302@gmail,com
