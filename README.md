@@ -12,7 +12,7 @@
 Soy estudiante de Análisis y Desarrollo de Software (ADSO) con un fuerte enfoque en la arquitectura de datos y el desarrollo backend. Me especializo en la creación de soluciones estructuradas utilizando MySQL, donde disfruto transformando requerimientos complejos en modelos de datos optimizados y normalizados.
 ​Mi enfoque combina la precisión técnica con un alto estándar estético, aplicando principios de diseño moderno en cada interfaz. Además, me apasiona explorar la integración de sistemas mecánicos y robóticos en proyectos de software innovadores.
 
-# 💻 Tech Stack:
+
 
 ### 🧠 Languajes 
 
@@ -36,12 +36,12 @@ Soy estudiante de Análisis y Desarrollo de Software (ADSO) con un fuerte enfoqu
 
 
 
-🏢 Experiencia Laboral
+###🏢 Experiencia Laboral
 Sena (2026 - Actualidad)
 Analisis de desarrollo y sofware , estuudio en el sena
 
-🎓 Educación
+###🎓 Educación
 Tecnico en sistemas (2023 - 2024)
-📞 Contacto
+###📞 Contacto
 Teléfono:3123250303
 Email: mechis2302@gmail,com
