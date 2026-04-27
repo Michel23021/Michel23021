@@ -36,12 +36,12 @@ Soy estudiante de Análisis y Desarrollo de Software (ADSO) con un fuerte enfoqu
 
 
 
-###🏢 Experiencia Laboral
+🏢 Experiencia Laboral
 Sena (2026 - Actualidad)
 Analisis de desarrollo y sofware , estuudio en el sena
 
-###🎓 Educación
+🎓 Educación
 Tecnico en sistemas (2023 - 2024)
-###📞 Contacto
+📞 Contacto
 Teléfono:3123250303
 Email: mechis2302@gmail,com
