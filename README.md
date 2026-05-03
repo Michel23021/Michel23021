@@ -38,15 +38,33 @@ Soy estudiante de Análisis y Desarrollo de Software (ADSO) con un fuerte enfoqu
 
 
 
-🏢 Experiencia Laboral
 
-Sena (2026 - Actualidad)
-Analisis de desarrollo y sofware , estuudio en el sena
+### 🧠 Enfoque y Habilidades
 
-🎓 Educación
+Me caracterizo por un **enfoque constructivo** ante los retos técnicos. Mi mentalidad está orientada a la resolución de problemas mediante la descomposición de procesos complejos en pasos manejables, manteniendo siempre el orden y la escalabilidad en el código.
 
-Tecnico en sistemas (2023 - 2024)
 
-📞 Contacto
-Teléfono:3123250303
-Email: mechis2302@gmail,com
+
+---
+
+
+
+### 📬 Conéctate conmigo
+
+- 📍 Bogotá, Colombia
+
+- 📚 Estudiante en SENA (Transicionando a Universidad Distrital)
+
+- 💬 Pregúntame sobre: SQL, Java o las últimas tendencias en UI/UX.
+
+
+
+---
+
+
+
+### 📊 Estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Michel23021&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Michel23021&layout=compact&theme=radical)
