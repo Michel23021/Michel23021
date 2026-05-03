@@ -7,6 +7,7 @@ Hola!👋 Soy Karen Olaya<picture><img src = "https://github.com/7oSkaaa/7oSkaaa
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi.***
 
@@ -34,7 +35,7 @@ Soy estudiante de Análisis y Desarrollo de Software (ADSO) con un fuerte enfoqu
 [![](https://visitcount.itsvg.in/api?id=Hanseeka-Dhingana&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -43,9 +44,6 @@ Soy estudiante de Análisis y Desarrollo de Software (ADSO) con un fuerte enfoqu
 
 Me caracterizo por un **enfoque constructivo** ante los retos técnicos. Mi mentalidad está orientada a la resolución de problemas mediante la descomposición de procesos complejos en pasos manejables, manteniendo siempre el orden y la escalabilidad en el código.
 
-
-
----
 
 
 
@@ -59,12 +57,4 @@ Me caracterizo por un **enfoque constructivo** ante los retos técnicos. Mi ment
 
 
 
----
 
-
-
-### 📊 Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Michel23021&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Michel23021&layout=compact&theme=radical)
